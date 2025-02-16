@@ -1,0 +1,12 @@
+.upload-container {
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .upload-container input {
+    display: block;
+    margin: 10px auto;
+  }
+  
